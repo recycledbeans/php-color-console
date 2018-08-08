@@ -1,0 +1,20 @@
+{
+    "name": "recycledbeans/colors",
+    "description": "PHP helper functions to add colors to CLI output.",
+    "keywords": ["php", "color", "cli", "console"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Watson",
+            "email": "matt@recycledbeans.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "files": [
+            "Console.php"
+        ]
+    }
+}
